@@ -32,7 +32,13 @@ h1 {
     margin: 0 auto;
     font-family: 'Sofia', serif;
     font-size: 200%;
-    color: #63AABC;
+    color: #696464;
+    text-shadow: 2px 2px #f0d78c;
+}
+
+.top-container h2 {
+color: #696464;
+text-shadow: 2px 2px #f0d78c;
 }
 
 h2 {
