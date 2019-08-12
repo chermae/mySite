@@ -2,20 +2,6 @@ body {
     margin: 0;
     text-align: center;
     }
-/*
-.top-cloud {
-position: absolute;
-right: 200px;
-top: 40px;
-margin: auto;
-}
-
-.bottom-cloud {
-    position: absolute;
-    left: 180px;
-    bottom: 180px;
-    margin: auto;
-} */
 
 .top-container {
     position: relative;
