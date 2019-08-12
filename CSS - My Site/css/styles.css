@@ -1,8 +1,8 @@
 body {
     margin: 0;
     text-align: center;
-}
-
+    }
+/*
 .top-cloud {
 position: absolute;
 right: 200px;
@@ -15,17 +15,37 @@ margin: auto;
     left: 180px;
     bottom: 180px;
     margin: auto;
-}
+} */
+
 .top-container {
-    background-color: #b2fcff;
     position: relative;
-    padding-top: 100px;
+   
 }
+
+.center {
+    position: absolute;
+    left: 11.60%;
+    top: 25%;
+    width: 100%;
+    text-align: left;
+    font-size: 100%;
+
+  }
+  
+  .top-container h2 {
+margin-top: 10px;
+  }
+
+#sunflower { 
+    width: 100%;
+    height: auto;
+    opacity: .9;
+  }
 
 h1 {
     margin: 0 auto;
     font-family: 'Sofia', serif;
-    font-size: 312.5%;
+    font-size: 200%;
     color: #63AABC;
 }
 
